@@ -6,12 +6,27 @@ const fs = require('fs');
 const path = require('path');
 const app = express();
 const dotenv = require('dotenv');
+const os = require('os');
+dotenv.config();
 
-// Hardcoded values
 
+// Function to find the first non-internal IPv4 address
+function getSystemIPAddress() {
+  const interfaces = os.networkInterfaces();
+  for (const name of Object.keys(interfaces)) {
+    for (const iface of interfaces[name]) {
+      const { family, internal, address } = iface;
+      if (family === 'IPv4' && !internal) {
+        return address;
+      }
+    }
+  }
+  return '0.0.0.0'; // Fallback if no external IPv4 address is found
+}
+
+const IP = getSystemIPAddress();
 PORT=process.env.PORT || 5000;
 TV_URL=process.env.TV_URL || "https://thetvapp.to";
-IP=process.env.IP || "127.0.0.1";
 VISIBLE_URL=`http://${IP}:${PORT}` || `http://localhost:${PORT}`;
 
 
