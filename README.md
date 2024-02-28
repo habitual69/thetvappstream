@@ -42,7 +42,6 @@ Rename the `.env_example` file to `.env` and adjust the variables as needed for 
 ```plaintext
 PORT=5000
 TV_URL=https://thetvapp.to
-IP=127.0.0.1
 ```
 
 ### Usage
