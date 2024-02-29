@@ -26,7 +26,7 @@ TheTvApp StreamScraper is an innovative server application built on Express, des
 
 ```bash
 git clone https://github.com/yourusername/thetvappstream.git
-cd StreamFlowTV
+cd thetvappstream
 ```
 
 2. Install the dependencies:
@@ -49,14 +49,24 @@ TV_URL=https://thetvapp.to
 To run the server:
 
 ```bash
-npm start
+node app.js
 ```
 
 Upon starting, the server will fetch the necessary token and channel listings. Access the channel playlist via `http://localhost:5000/channels.m3u` and individual HLS stream URLs by visiting `http://localhost:5000/channel/{channelID}`.
 
+## Docker Support
+```
+docker build -t thetvappstream .
+docker run -p 5000:5000 thetvappstream
+```
+
+### Note
+> if your deploying this on a server using docker, make sure to use a reverse proxy like Nginx, Apache or cloudflare tunnel to serve the stream over HTTPS. or Set the docker network mode to host.
+
+
 ## Development
 
-Contributions to StreamFlow TV are welcome! Feel free to fork, clone, or submit pull requests to enhance its features or performance.
+Contributions to TheTvApp StreamScraper are welcome! Feel free to fork, clone, or submit pull requests to enhance its features or performance.
 
 ## License
 
@@ -66,3 +76,6 @@ This project is released under the MIT License - see the LICENSE.md file for det
 
 - A big thank you to the developers of Express, Axios, Puppeteer, Cheerio, and all other libraries that have contributed to this project.
 - Inspired by the streaming community's need for more accessible and high-quality TV streaming solutions.
+
+## Disclaimer
+> TheTvApp StreamScraper is not affiliated with `thetvapp.to` and is intended for educational and personal use only. Please respect the terms of service of the website and use this application responsibly.

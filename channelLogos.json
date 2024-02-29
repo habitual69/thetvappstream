@@ -22,11 +22,11 @@
       },
       {
         "name": "BBC World News HD",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/1/16/BBC_World_News_2008_%28Black_box%29.svg/revision/latest?cb=20220108023725"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/BBC_World_News_red.svg"
       },
       {
         "name": "BET",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/b/be/BET_1980.svg/revision/latest?cb=20210630020745"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/BET.png"
       },
       {
         "name": "BET Her",
@@ -34,15 +34,15 @@
       },
       {
         "name": "Bloomberg TV",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a3/Bloomberg_television.jpg/revision/latest/scale-to-width-down/1000?cb=20130326221752"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1920px-New_Bloomberg_Logo.svg.png"
       },
       {
         "name": "Boomerang",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/8/82/Boomerang.svg/revision/latest?cb=20230119042713"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Boomerang.png"
       },
       {
         "name": "Bravo",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/49/Bravo_2017.svg/revision/latest?cb=20210104225904"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Bravo.png"
       },
       {
         "name": "Cartoon Network",
