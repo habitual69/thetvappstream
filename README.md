@@ -26,7 +26,7 @@ TheTvApp StreamScraper is an innovative server application built on Express, des
 
 ```bash
 git clone https://github.com/yourusername/thetvappstream.git
-cd StreamFlowTV
+cd thetvappstream
 ```
 
 2. Install the dependencies:
@@ -49,7 +49,7 @@ TV_URL=https://thetvapp.to
 To run the server:
 
 ```bash
-npm start
+node app.js
 ```
 
 Upon starting, the server will fetch the necessary token and channel listings. Access the channel playlist via `http://localhost:5000/channels.m3u` and individual HLS stream URLs by visiting `http://localhost:5000/channel/{channelID}`.
