@@ -2,11 +2,11 @@
     "channels": [
       {
         "name": "A&E",
-        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/AE.png"
       },
       {
         "name": "AMC",
-        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/amc-us.png?raw=true"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/AMC.png"
       },
       {
         "name": "American Heroes Channel",
@@ -14,15 +14,15 @@
       },
       {
         "name": "Animal Planet",
-        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/animal-planet-us.png?raw=true"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Animal.png"
       },
       {
         "name": "BBC America",
-        "logo": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-hz-us.png?raw=true"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/BBCAmerica.png"
       },
       {
         "name": "BBC World News HD",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/BBC_World_News_red.svg"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/2560px-BBC_World_News_red.svg.png"
       },
       {
         "name": "BET",
@@ -30,7 +30,7 @@
       },
       {
         "name": "BET Her",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/4b/BET_Her_2021.svg/revision/latest?cb=20230922050935"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/BET.png"
       },
       {
         "name": "Bloomberg TV",
@@ -46,11 +46,11 @@
       },
       {
         "name": "Cartoon Network",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest?cb=20210726224754"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/CN.png"
       },
       {
         "name": "CBS Sports Network",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/0/04/CBS_Sports_Network_2021.svg/revision/latest?cb=20210227223122"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/CBSSN.png"
       },
       {
         "name": "Cinemax",
@@ -58,35 +58,35 @@
       },
       {
         "name": "CMT",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/0/02/CMT_logo.svg/revision/latest?cb=20151127152654"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/CMT.png"
       },
       {
         "name": "CNBC",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/9/98/CNBC.svg/revision/latest?cb=20210623051418"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/CNBC.png"
       },
       {
         "name": "CNN",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest?cb=20180509053533"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/CNN.png"
       },
       {
         "name": "Comedy Central",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/a/aa/Comedy_Central_2018.svg/revision/latest?cb=20191223064712"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Comedy.png"
       },
       {
         "name": "Cooking Channel",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/3/39/Cooking_Channel.svg/revision/latest?cb=20180329192431"
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/3/39/Cooking_Channel.png/revision/latest?cb=20180329192431"
       },
       {
         "name": "Crime & Investigation HD",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/3/37/C%26I_logo.svg/revision/latest?cb=20190613183256"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/1280px-Crime_%2B_Investigation_Logo_10.2019.svg.png"
       },
       {
         "name": "CSPAN",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/0/0a/CSPAN_Navy-and-Cobalt.svg/revision/latest?cb=20190318191547"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/CSPAN.png"
       },
       {
         "name": "CSPAN 2",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/29/CSPAN2_Navy-and-Red.svg/revision/latest?cb=20190318192147"
+        "logo": "https://cdn-profiles.tunein.com/s20333/images/logod.png"
       },
       {
         "name": "Destination America",
@@ -94,235 +94,235 @@
       },
       {
         "name": "Discovery",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest?cb=20210519155203"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Discovery.png"
       },
       {
         "name": "Discovery Family Channel",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/5/51/Discovery_Family.svg/revision/latest?cb=20230929174917"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/DiscoveryFamily.png"
       },
       {
         "name": "Discovery Life",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d5/Discovery_Life_2016_logo.svg/revision/latest?cb=20170826004537"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Discovery_Life_logo_2016.svg/1200px-Discovery_Life_logo_2016.svg.png"
       },
       {
         "name": "Disney Channel (East)",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest?cb=20210519155203"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Disney.png"
       },
       {
         "name": "Disney Junior",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_Junior_Logo_2020.png/revision/latest/scale-to-width-down/1000?cb=20201007202007"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/DisneyJr.png"
       },
       {
         "name": "Disney XD",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/1/13/Logo_disney_xd.svg/revision/latest?cb=20180903211953"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/DisneyXD.png"
       },
       {
         "name": "E!",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/4f/E%21_%282012%29.svg/revision/latest?cb=20210104232934"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/E.png"
       },
       {
         "name": "ESPN",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest?cb=20201130040927"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ESPN.png"
       },
       {
         "name": "ESPN2",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d5/ESPN2.svg/revision/latest?cb=20210609161318"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ESPN2.png"
       },
       {
         "name": "ESPNews",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bb/ESPNEWS_logo.svg/revision/latest?cb=20170409153156"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ESPNews.png"
       },
       {
         "name": "ESPNU",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/e/ed/ESPN_U.svg/revision/latest?cb=20210715150317"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ESPNU.png"
       },
       {
         "name": "Food Network",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/5/59/FoodNetLogo.svg/revision/latest?cb=20210615015237"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/FoodNetwork.png"
       },
       {
         "name": "Fox Business Network",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a0/ImageAgentProxy.jpeg/revision/latest?cb=20180520150749"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/FoxBusiness.png"
       },
       {
         "name": "FOX News Channel",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/1/15/Fox_News_Channel_HD.png/revision/latest?cb=20110408025321"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/FoxNews.png"
       },
       {
         "name": "FOX Sports 1",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fe/FS1_2016.svg/revision/latest?cb=20230817005728"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/FS1.png"
       },
       {
         "name": "FOX Sports 2",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fe/FS1_2016.svg/revision/latest?cb=20230817005728"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/FS2.png"
       },
       {
         "name": "Freeform",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a3/Freeform_2022.svg/revision/latest?cb=20230814050502"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Freeform.png"
       },
       {
         "name": "Fuse HD",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/8/86/Fuse_2015.svg/revision/latest?cb=20200428185746"
+        "logo": "https://www.pngfind.com/pngs/b/618-6187868_fuse-png.png"
       },
       {
         "name": "FX",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e0/FX2022.svg/revision/latest?cb=20220716143114"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/FX.png"
       },
       {
         "name": "FX Movie",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f0/FX_Movie_Channel.svg/revision/latest?cb=20161008111221"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/FXMovie.png"
       },
       {
         "name": "FXX",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/3/30/FXX.svg/revision/latest?cb=20161008111050"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/FXX.png"
       },
       {
         "name": "FYI",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/6/6d/FYI%2C_logo.svg/revision/latest?cb=20230826231904"
+        "logo": "https://johnweisbarth.com/wp-content/uploads/sites/10/2017/05/logo-fyi-white.png"
       },
       {
         "name": "Golf Channel",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/9/96/Golf_Channel_2014.svg/revision/latest?cb=20131220201925"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/GOLF.png"
       },
       {
         "name": "Hallmark",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/9/9a/Hallmark_Channel_2022.svg/revision/latest?cb=20220921173602"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Hallmark.png"
       },
       {
         "name": "Hallmark Drama HD",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/b/b0/Hallmark_Drama.svg/revision/latest?cb=20171101204807"
+        "logo": "https://corporate.hallmark.com/wp-content/uploads/2017/10/CrownMedia-Tabs-HMKDrama.jpg"
       },
       {
         "name": "Hallmark Movies & Mysteries HD",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/b/ba/Hallmark_Movie_Channel.svg/revision/latest?cb=20160517143813"
+        "logo": "https://corporate.hallmark.com/wp-content/uploads/2017/10/CrownMedia-Tabs-HMKMoviesMysteries.jpg"
       },
       {
         "name": "HBO 2 East",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/9/95/HBO_2_2014.svg/revision/latest?cb=20210113014820"
+        "logo": "https://logodix.com/logo/1265677.png"
       },
       {
         "name": "HBO Comedy HD",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d1/HBO_Comedy_2014_%28Stacked%29.svg/revision/latest?cb=20210113003534"
+        "logo": "https://logodix.com/logo/1016119.png"
       },
       {
         "name": "HBO East",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest?cb=20201126030141"
+        "logo": "https://logodix.com/logo/95977.png"
       },
       {
         "name": "HBO Family East",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/0/06/HBO_Family_2014_%28Stacked%29.svg/revision/latest?cb=20210113005801"
+        "logo": "https://logodix.com/logo/789118.png"
       },
       {
         "name": "HBO Signature",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/29/HBO_Signature_2014_%28Stacked%29.svg/revision/latest?cb=20210113020108"
+        "logo": "https://r1.hiclipart.com/path/514/841/162/8047802smbenknl54d1qi40m9m-320b8e1b7abb5c846e89cb9ad3ca8e39.png"
       },
       {
         "name": "HBO Zone HD",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Zone_2014_%28Stacked%29.svg/revision/latest?cb=20210113021639"
+        "logo": "https://logodix.com/logo/1111226.png"
       },
       {
         "name": "HGTV",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a8/HGTV_2010.svg/revision/latest?cb=20231006154546"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HGTV.png"
       },
       {
         "name": "History",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest?cb=20211213155518"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/History.png"
       },
       {
         "name": "HLN",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e7/HLN_2023.svg/revision/latest?cb=20230629003509"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/HLN.png"
       },
       {
         "name": "IFC",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/0/02/IFC_2018.svg/revision/latest?cb=20181111114725"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/56/IFC_2014_logo.png"
       },
       {
         "name": "Investigation Discovery",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/0/0b/ID-2020.svg/revision/latest?cb=20200413032314"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/ID.png"
       },
       {
         "name": "ION Television East HD",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/a/ae/Ion_Television_%282021%29.svg/revision/latest?cb=20210412034718"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/IONNY.png"
       },
       {
         "name": "Lifetime",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/1/11/Lifetime_2020.svg/revision/latest?cb=20200203171509"
+        "logo": "https://raw.githubusercontent.com/interlark/ustvgo-tvguide/master/images/icons/channels/for-dark-bg/Lifetime.png"
       },
       {
         "name": "LMN",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8b/LMN_2019.svg/revision/latest?cb=20191110221515"
+        "logo": "https://iconape.com/wp-content/files/ds/279340/png/lmn-logo.png"
       },
       {
         "name": "Logo",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/2f/Logo_TV_2015.svg/revision/latest?cb=20201210025054"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/logo-us.png"
       },
       {
         "name": "MLB Network",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/d/dd/MLB_Network.svg/revision/latest?cb=20220618052057"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-network-us.png"
       },
       {
         "name": "MoreMAX",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/9/92/More_MAX_2016.svg/revision/latest?cb=20221123201223"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-moremax-us.png"
       },
       {
         "name": "MotorTrend HD",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/5/5a/Motor_Trend.svg/revision/latest?cb=20180410190357"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/motor-trend-us.png"
       },
       {
         "name": "MovieMAX",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/c/c9/MovieMax_2016.svg/revision/latest/scale-to-width-down/1000?cb=20201031232037"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-moviemax-us.png"
       },
       {
         "name": "MSNBC",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7f/MSNBC_2023.svg/revision/latest?cb=20231126000955"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msnbc-alt-us.png"
       },
       {
         "name": "MTV",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e7/MTV_2021_Retro.svg/revision/latest?cb=20230607080834"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-us.png"
       },
       {
         "name": "Nat Geo WILD",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/d/d9/National_Geographic_Wild_2018.svg/revision/latest?cb=20180903172554"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nat-geo-wild-us.png"
       },
       {
         "name": "National Geographic",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest?cb=20170701154034"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/national-geographic-us.png"
       },
       {
         "name": "NBA TV",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest?cb=20210715160314"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-icon-us.png"
       },
       {
         "name": "Newsmax TV",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/7/72/Newsmax_2021.svg/revision/latest?cb=20210824164935"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsmax-tv-us.png"
       },
       {
         "name": "NFL Network",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bd/NFL_Network_New.svg/revision/latest?cb=20161124195846"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png"
       },
       {
         "name": "NFL Red Zone",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/3/38/NFL_RedZone.svg/revision/latest?cb=20230828151712"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-red-zone-us.png"
       },
       {
         "name": "NHL Network",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f4/NHL_Network_2012.svg/revision/latest?cb=20191208144244"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png"
       },
       {
         "name": "Nick Jr.",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/5/55/Nick_Jr..svg/revision/latest?cb=20220717214037"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png"
       },
       {
         "name": "Nickelodeon East",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/0/07/Nickelodeon_%282009%29.svg/revision/latest?cb=20180306141612"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png"
       },
       {
         "name": "Nicktoons",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/6/69/Nicktoons_2023_Logo.svg/revision/latest?cb=20230913233853"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-toons-us.png"
       },
       {
         "name": "Outdoor Channel",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a1/OC_Logo2017_Primary_2_%281%29.svg/revision/latest?cb=20170428060035"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/outdoor-channel-us.png"
       },
       {
         "name": "OWN",
@@ -330,71 +330,71 @@
       },
       {
         "name": "Oxygen True Crime",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/6/6c/Oxygen_2017.svg/revision/latest?cb=20170801131103"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/oxygen-true-crime-us.png"
       },
       {
         "name": "ReelzChannel",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bc/Reelz_2022.svg/revision/latest?cb=20230818191634"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/reelz-us.png"
       },
       {
         "name": "Science",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/7/7c/Science_2016_%28full_version%29.svg/revision/latest?cb=20180616040702"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-us.png"
       },
       {
         "name": "Showtime (E)",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1c/Showtime_1997.svg/revision/latest?cb=20230614133820"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-icon-us.png"
       },
       {
         "name": "SHOWTIME 2",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1c/Showtime_1997.svg/revision/latest?cb=20230614133820"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-2-us.png"
       },
       {
         "name": "STARZ East",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e5/STARZ-2022.svg/revision/latest?cb=20221002084802"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png"
       },
       {
         "name": "SundanceTV HD",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fa/SundanceTV_2022.svg/revision/latest?cb=20220702145243"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sundance-tv-us.png"
       },
       {
         "name": "SYFY",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fb/Syfy_%282017%29.svg/revision/latest?cb=20171210093256"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/syfy-us.png"
       },
       {
         "name": "TBS",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a7/TBS_2015.svg/revision/latest?cb=20200914191804"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png"
       },
       {
         "name": "TCM",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/c/cb/Turner_Classic_Movies_2021.svg/revision/latest?cb=20210901224657"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tcm-us.png"
       },
       {
         "name": "TeenNick",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/0/0d/TeenNick_2023.svg/revision/latest/scale-to-width-down/1000?cb=20230831120511"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/teen-nick-us.png"
       },
       {
         "name": "Telemundo East",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/8/8c/Telemundo_2018.svg/revision/latest?cb=20210320000158"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/telemundo-us.png"
       },
       {
         "name": "Tennis Channel",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/4f/Tennis_Channel_2022.svg/revision/latest?cb=20221201171651"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tennis-channel-us.png"
       },
       {
         "name": "The Movie Channel East",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f5/The_Movie_Channel_2006.svg/revision/latest?cb=20220929151939"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/the-movie-channel-icon-us.png"
       },
       {
         "name": "The Weather Channel",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a6/The_Weather_Channel_%282005%29.svg/revision/latest?cb=20171128103430"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/weather-channel-us.png"
       },
       {
         "name": "TLC",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/b/b1/TLC_%282021%29.svg/revision/latest?cb=20220703193228"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tlc-us.png"
       },
       {
         "name": "TNT",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f4/TNT_2016.svg/revision/latest?cb=20201128113457"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png"
       },
       {
         "name": "Travel Channel",
@@ -402,31 +402,31 @@
       },
       {
         "name": "truTV",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a7/TruTV_No_Tag.svg/revision/latest?cb=20171206034123"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/travel-channel-us.png"
       },
       {
         "name": "TV One HD",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/d/db/TV_One_logo_2016.svg/revision/latest?cb=20170917183717"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/one-tv-us.png"
       },
       {
         "name": "Universal Kids",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Kids_new_2019_logo.svg/revision/latest?cb=20190430183948"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universal-kids-us.png"
       },
       {
         "name": "Univision East",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/0/08/Univision2019.svg/revision/latest?cb=20210317233059"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/univision-us.png"
       },
       {
         "name": "USA Network",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/7/70/USA_Network_2005.svg/revision/latest?cb=20221207124052"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png"
       },
       {
         "name": "VH1",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/a/ac/VH1_2013_%28Print%29.svg/revision/latest?cb=20220510162730"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/vh1-us.png"
       },
       {
         "name": "VICE",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/b/b2/Vice_title_screen.png/revision/latest?cb=20150326185400"
+        "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/vice-us.png"
       },
       {
         "name": "WABC (New York) ABC East",
