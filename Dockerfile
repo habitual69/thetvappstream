@@ -5,13 +5,27 @@ FROM node:16
 WORKDIR /usr/src/app
 
 # Install necessary dependencies for Puppeteer
-# (Include the dependency installation commands here as before)
-
-# Create a new user "appuser" and switch to it
-RUN groupadd -r appuser && useradd -r -g appuser -G audio,video appuser \
-    && mkdir -p /home/appuser/Downloads \
-    && chown -R appuser:appuser /home/appuser \
-    && chown -R appuser:appuser /usr/src/app
+RUN apt-get update && apt-get install -y \
+    wget \
+    ca-certificates \
+    fonts-liberation \
+    libappindicator3-1 \
+    libasound2 \
+    libatk-bridge2.0-0 \
+    libatk1.0-0 \
+    libcups2 \
+    libdbus-1-3 \
+    libgdk-pixbuf2.0-0 \
+    libnspr4 \
+    libnss3 \
+    libx11-xcb1 \
+    libxcomposite1 \
+    libxdamage1 \
+    libxrandr2 \
+    xdg-utils \
+    libgbm1 \
+    libxshmfence1 \
+    && rm -rf /var/lib/apt/lists/*
 
 # Copy package.json and package-lock.json (if available) to the container
 COPY package*.json ./
@@ -19,17 +33,17 @@ COPY package*.json ./
 # Install any dependencies
 RUN npm install
 
+# If you're building your code for production
+# RUN npm ci --only=production
+
 # Bundle the source code inside the Docker image
 COPY . .
 
-# Change ownership of the working directory to the new user
-RUN chown -R appuser:appuser /usr/src/app
-
-# Switch to the non-root user
-USER appuser
-
 # Make port 5000 available to the world outside this container
 EXPOSE 5000
+
+# Define environment variables (if needed)
+# ENV TV_URL=https://thetvapp.to
 
 # Run the application when the container launches
 CMD ["node", "app.js"]
