@@ -25,7 +25,7 @@ TheTvApp StreamScraper is an innovative server application built on Express, des
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/thetvappstream.git
+git clone https://github.com/habitual69/thetvappstream.git
 cd thetvappstream
 ```
 
