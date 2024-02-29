@@ -35,9 +35,11 @@ app.get('/channel/:channel', async (req, res) => {
       } catch (error) {
         console.error(error.message);
         res.status(500).send(error.message);
+        await tokenSniffer.refresh();
       }
     } else {
       res.status(404).send("Channel does not exist, or is blocked.");
+      await tokenSniffer.refresh();
     }
   }
 });
