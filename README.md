@@ -8,7 +8,7 @@ TheTvApp StreamScraper is an innovative server application built on Express, des
 - **Dynamic Channel Listing**: Automatically retrieves and refreshes the list of available TV channels from `thetvapp.to`.
 - **Automated Token Retrieval**: Uses Puppeteer to automate the process of token management, ensuring uninterrupted access to streams.
 - **Efficient Caching**: Implements caching for both channel listings and HLS stream URLs, optimizing performance and reducing load.
-- **Quality Selection**: Prioritizes high bitrate HLS streams when available, delivering superior video quality.
+- **Quality Selection**: Prioritizes high-bitrate HLS streams when available, delivering superior video quality.
 - **Stream URL Auto-Refresh**: Periodically updates stream URLs to keep them active, ensuring consistent access to TV channels.
 - **M3U Playlist Integration**: Generates and serves M3U playlists, making it easy to use with various media players that support streaming.
 
@@ -61,7 +61,7 @@ docker run -p 5000:5000 thetvappstream
 ```
 
 ### Note
-> if your deploying this on a server using docker, make sure to use a reverse proxy like Nginx, Apache or cloudflare tunnel to serve the stream over HTTPS. or Set the docker network mode to host.
+> if your deploying this on a server using docker, make sure to use a reverse proxy like Nginx, Apache or Cloudflare tunnel to serve the stream over HTTPS. or Set the docker network mode to host.
 
 
 ## Development
