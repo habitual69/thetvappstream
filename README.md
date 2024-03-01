@@ -18,9 +18,29 @@ TheTvApp StreamScraper is an innovative server application built on Express, des
 
 - Node.js (v14 or later recommended)
 - npm (v6 or later)
-- Access to a terminal or command-line interface
+- Docker (if running with Docker)
 
 ### Installation
+
+1. Pull the Docker image from Docker Hub:
+
+```bash
+docker pull habitual69/thetvappstream
+```
+
+### Usage
+
+#### Running with Docker
+
+To run the server using Docker in host network mode:
+
+```bash
+docker run --network host habitual69/thetvappstream
+```
+
+Upon starting, the server will fetch the necessary token and channel listings. Access the channel playlist via `http://localhost:5000/channels.m3u` and individual HLS stream URLs by visiting `http://localhost:5000/channel/{channelID}`.
+
+#### Running without Docker
 
 1. Clone the repository:
 
@@ -44,9 +64,7 @@ PORT=5000
 TV_URL=https://thetvapp.to
 ```
 
-### Usage
-
-To run the server:
+4. To run the server:
 
 ```bash
 node app.js
@@ -54,15 +72,9 @@ node app.js
 
 Upon starting, the server will fetch the necessary token and channel listings. Access the channel playlist via `http://localhost:5000/channels.m3u` and individual HLS stream URLs by visiting `http://localhost:5000/channel/{channelID}`.
 
-## Docker Support
-```
-docker build -t thetvappstream .
-docker run -p 5000:5000 thetvappstream
-```
+## Note
 
-### Note
-> if your deploying this on a server using docker, make sure to use a reverse proxy like Nginx, Apache or Cloudflare tunnel to serve the stream over HTTPS. or Set the docker network mode to host.
-
+If you are deploying this on a server using Docker, make sure to use a reverse proxy like Nginx, Apache, or Cloudflare tunnel to serve the stream over HTTPS or set the Docker network mode to host.
 
 ## Development
 
@@ -78,4 +90,5 @@ This project is released under the MIT License - see the LICENSE.md file for det
 - Inspired by the streaming community's need for more accessible and high-quality TV streaming solutions.
 
 ## Disclaimer
+
 > TheTvApp StreamScraper is not affiliated with `thetvapp.to` and is intended for educational and personal use only. Please respect the terms of service of the website and use this application responsibly.
