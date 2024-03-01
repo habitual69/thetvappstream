@@ -1,0 +1,25 @@
+name: Publish image to Docker Hub
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Build the Docker image
+      run: |
+        docker build . --file Dockerfile --tag habitual69/thetvappstream:latest
+    - name: Log in to Docker Hub
+      run: |
+        echo "${{ secrets.DOCKER_HUB_PASSWORD }}" | docker login -u habitual69 --password-stdin
+    - name: Push the image to Docker Hub
+      run: |
+        docker push habitual69/thetvappstream:latest
+    - name: Log out of Docker Hub
+      run: |
+        docker logout
